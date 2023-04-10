@@ -2,7 +2,7 @@
 ### Discord 💯
 [![Button Example]][Link]
 <!----------------------------------------------------------------------------->
-[Link]: # 'Link with example title.'
+[Link]: # 'https://github.com/dhafinmuntaz'
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Example]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
 <!--
