@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Discord 💯
-[<kbd> <br> HERE <br> </kbd>][https://github.com/dhafinmuntaz/]
-[https://github.com/dhafinmuntaz/]: # 'Link with example title.'
+[<kbd> <br> Title <br> </kbd>][Link]
+[Link]: # 'https://github.com/dhafinmuntaz'
 <!--
 **dhafinmuntaz/dhafinmuntaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
