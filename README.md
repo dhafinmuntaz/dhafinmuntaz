@@ -11,10 +11,11 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-</div>
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhafinmuntaz&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 <!--
 **dhafinmuntaz/dhafinmuntaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
