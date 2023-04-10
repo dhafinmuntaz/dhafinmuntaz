@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### Discord 💯
-<kbd> <br> [HERE][Link] <br> </kbd>
-[Link]: # '[https://github.com/dhafinmuntaz]'
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 <!--
 **dhafinmuntaz/dhafinmuntaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
